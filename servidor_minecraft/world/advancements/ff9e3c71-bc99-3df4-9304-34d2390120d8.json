@@ -1,0 +1,878 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-15 02:19:42 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/update": {
+    "criteria": {
+      "tick": "2024-08-15 02:19:42 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/modifiers": {
+    "criteria": {
+      "tick": "2024-08-15 02:19:42 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-08-15 02:52:57 +0000",
+      "minecraft:river": "2024-08-15 02:52:41 +0000",
+      "minecraft:plains": "2024-08-15 02:19:43 +0000"
+    },
+    "done": false
+  },
+  "skyblock:skyblock/root": {
+    "criteria": {
+      "get_item": "2024-08-15 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/sand": {
+    "criteria": {
+      "has_stones": "2024-08-15 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-15 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/cobbled_deepslate": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/cobblestone_generator": {
+    "criteria": {
+      "requirement": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-08-15 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/wooden_pickaxe": {
+    "criteria": {
+      "wood": "2024-08-15 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/stone_pickaxe": {
+    "criteria": {
+      "pickaxe": "2024-08-15 02:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-08-15 02:26:52 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/all_islands": {
+    "criteria": {
+      "forest_island": "2024-08-15 02:28:04 +0000",
+      "sand_island": "2024-08-15 02:39:59 +0000",
+      "cave_island": "2024-08-15 02:52:33 +0000"
+    },
+    "done": false
+  },
+  "skyblock:skyblock/come_to_island": {
+    "criteria": {
+      "forest_island": "2024-08-15 02:28:04 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/root": {
+    "criteria": {
+      "forest_island": "2024-08-15 02:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-08-15 02:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-08-15 02:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-08-15 02:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/all_of_wood": {
+    "criteria": {
+      "oak_stairs": "2024-08-16 01:23:59 +0000",
+      "oak_fence": "2024-08-16 01:26:18 +0000",
+      "spruce_slab": "2024-08-16 01:32:28 +0000",
+      "oak_door": "2024-08-16 01:24:38 +0000",
+      "spruce_planks": "2024-08-16 00:45:11 +0000",
+      "spruce_stairs": "2024-08-16 01:30:21 +0000",
+      "birch_planks": "2024-08-15 02:44:51 +0000",
+      "oak_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/root": {
+    "criteria": {
+      "sand_island": "2024-08-15 02:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-08-15 02:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-08-15 02:48:53 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/get_a_hoe": {
+    "criteria": {
+      "stone_hoe": "2024-08-15 02:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-15 02:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-08-15 02:48:55 +0000"
+    },
+    "done": true
+  },
+  "skyblock:cave_island/root": {
+    "criteria": {
+      "cave_island": "2024-08-15 02:52:33 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/reach_other_biome": {
+    "criteria": {
+      "requirement": "2024-08-15 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-08-15 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-08-15 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-08-15 03:01:43 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/get_64_of_all_logs": {
+    "criteria": {
+      "oak": "2024-08-16 00:39:43 +0000",
+      "spruce": "2024-08-15 03:08:40 +0000"
+    },
+    "done": false
+  },
+  "skyblock:skyblock/cooked_food": {
+    "criteria": {
+      "food": "2024-08-15 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2024-08-15 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-08-15 03:09:09 +0000"
+    },
+    "done": false
+  },
+  "skyblock:forest_island/plant_all_saplings": {
+    "criteria": {
+      "spruce_sapling": "2024-08-15 03:09:42 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/killed_spider": {
+    "criteria": {
+      "requirement": "2024-08-15 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2024-08-16 02:13:21 +0000",
+      "zombie": "2024-08-16 01:49:43 +0000",
+      "zombie_villager": "2024-08-16 02:13:43 +0000",
+      "spider": "2024-08-15 03:11:48 +0000",
+      "creeper": "2024-08-16 01:49:39 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/kill_a_mob": {
+    "criteria": {
+      "spider": "2024-08-15 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-08-15 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/slabs": {
+    "criteria": {
+      "requirement": "2024-08-15 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-08-16 00:46:49 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/nether": {
+    "criteria": {
+      "requirement": "2024-08-16 00:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-08-16 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-08-16 00:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-08-16 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/reach_all_nether_biomes": {
+    "criteria": {
+      "nether_wastes": "2024-08-16 00:35:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-08-16 01:32:28 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/wood_farm": {
+    "criteria": {
+      "wood": "2024-08-16 00:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-08-16 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/get_wood": {
+    "criteria": {
+      "requirement": "2024-08-16 00:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-08-16 01:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/red_sand": {
+    "criteria": {
+      "has_rotten_flesh": "2024-08-16 01:55:37 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_skeleton": {
+    "criteria": {
+      "requirement": "2024-08-16 02:13:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/root": {
+    "criteria": {
+      "requirement": "2024-08-16 00:35:07 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/furnaces": {
+    "criteria": {
+      "requirement": "2024-08-16 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/get_64_of_all_crops": {
+    "criteria": {
+      "potato": "2024-08-16 00:46:53 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/killed_creeper": {
+    "criteria": {
+      "requirement": "2024-08-16 01:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_all_types_of_zombies": {
+    "criteria": {
+      "zombie": "2024-08-16 01:49:43 +0000",
+      "zombie_villager": "2024-08-16 02:13:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/tuff": {
+    "criteria": {
+      "has_piglin": "2024-08-16 01:55:45 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_zombie": {
+    "criteria": {
+      "requirement": "2024-08-16 01:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-08-16 00:36:40 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/plant_a_seed": {
+    "criteria": {
+      "potato": "2024-08-16 00:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-08-16 01:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-08-16 01:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-08-16 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-08-16 00:36:40 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/slept_in_bed": {
+    "criteria": {
+      "requirement": "2024-08-16 01:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-08-16 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3463
+}

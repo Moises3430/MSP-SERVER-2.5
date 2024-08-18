@@ -1,0 +1,485 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-18 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-08-18 03:48:14 +0000"
+    },
+    "done": false
+  },
+  "skyblock:technical/update": {
+    "criteria": {
+      "tick": "2024-08-18 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/modifiers": {
+    "criteria": {
+      "tick": "2024-08-18 03:48:14 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/stone_pickaxe": {
+    "criteria": {
+      "pickaxe": "2024-08-18 03:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-08-18 03:50:17 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/root": {
+    "criteria": {
+      "get_item": "2024-08-18 03:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/sand": {
+    "criteria": {
+      "has_stones": "2024-08-18 03:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/cobbled_deepslate": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/cobblestone_generator": {
+    "criteria": {
+      "requirement": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-08-18 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-18 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-08-18 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-08-18 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-08-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-08-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-08-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-08-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-08-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-08-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-18 04:13:23 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/cooked_food": {
+    "criteria": {
+      "food": "2024-08-18 04:13:36 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-08-18 05:31:37 +0000",
+      "baked_potato": "2024-08-18 04:17:36 +0000",
+      "rotten_flesh": "2024-08-18 04:58:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-08-18 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_creeper": {
+    "criteria": {
+      "requirement": "2024-08-18 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_all_types_of_zombies": {
+    "criteria": {
+      "zombie": "2024-08-18 04:37:48 +0000",
+      "zombie_villager": "2024-08-18 04:54:07 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2024-08-18 04:37:49 +0000",
+      "zombie": "2024-08-18 04:37:48 +0000",
+      "zombie_villager": "2024-08-18 04:54:07 +0000",
+      "witch": "2024-08-18 04:41:33 +0000",
+      "spider": "2024-08-18 04:38:11 +0000",
+      "creeper": "2024-08-18 04:37:48 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/killed_zombie": {
+    "criteria": {
+      "requirement": "2024-08-18 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_a_mob": {
+    "criteria": {
+      "creeper": "2024-08-18 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_skeleton": {
+    "criteria": {
+      "requirement": "2024-08-18 04:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-08-18 04:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/red_sand": {
+    "criteria": {
+      "has_rotten_flesh": "2024-08-18 04:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/tuff": {
+    "criteria": {
+      "has_piglin": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-08-18 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_spider": {
+    "criteria": {
+      "requirement": "2024-08-18 04:38:11 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/build_mob_farm": {
+    "criteria": {
+      "bone": "2024-08-18 04:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-08-18 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/all_of_wood": {
+    "criteria": {
+      "spruce_trapdoor": "2024-08-18 04:48:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-08-18 04:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-08-18 04:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-08-18 04:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-08-18 04:56:20 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/get_64_of_all_witch_drops": {
+    "criteria": {
+      "gunpowder": "2024-08-18 04:56:21 +0000"
+    },
+    "done": false
+  },
+  "skyblock:skyblock/slabs": {
+    "criteria": {
+      "requirement": "2024-08-18 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3463
+}
